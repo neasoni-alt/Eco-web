@@ -1,5 +1,8 @@
 # 🌍 Eco-web
 
+![Project Banner](./banner.svg)
+
+
 Eco-web is a web application designed to promote environmental awareness and sustainable living solutions. [Replace this sentence with a 1-2 sentence description of what your specific website actually does, e.g., "It helps users track their daily carbon footprint and discover local recycling centers."]
 
 ---
